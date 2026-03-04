@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "HOPE NOT",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-03-04T16:54:50.698107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hope Not",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_Hope_Not_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hope Not (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_Hope_Not_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hope Not (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_Hope_Not_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hope Not (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_Hope_Not_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HOPE NOT - JP Ver.",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_HOPE_NOT_-_JP_Ver._BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Certainly Hope Not",
+      "artist": "Guided By Voices",
+      "has_synced": false,
+      "path": "select/06_I_Certainly_Hope_Not_Guided_By_Voices.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goodnight, Goodbye (Hope Not Forever)",
+      "artist": "Pokey LaFarge",
+      "has_synced": false,
+      "path": "select/07_Goodnight,_Goodbye_(Hope_Not_Forever)_Pokey_LaFarge.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hope Not",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_Hope_Not_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Certainly Hope Not",
+      "artist": "Guided By Voices",
+      "has_synced": false,
+      "path": "select/09_I_Certainly_Hope_Not_Guided_By_Voices.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aiming For Hope - Not All Superheroes Wear Capes 2022 Extended Vocal Mix",
+      "artist": "Alex M.O.R.P.H., Susie Ledge",
+      "has_synced": false,
+      "path": "select/10_Aiming_For_Hope_-_Not_All_Superheroes_Wear_Capes_2022_Extended_Vocal_Mix_Alex_M.O.R.P.H.,_Susie_Ledge.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodnight, Goodbye (Hope Not Forever)",
+      "artist": "LaFarge, Pokey",
+      "has_synced": false,
+      "path": "select/11_Goodnight,_Goodbye_(Hope_Not_Forever)_LaFarge,_Pokey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hope Not",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/12_Hope_Not_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hope Not (아니길)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_Hope_Not_(아니길)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Hope Not",
+      "artist": "Count To Four",
+      "has_synced": true,
+      "path": "select/14_I_Hope_Not_Count_To_Four.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hope Not",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Hope_Not_BLACKPINK.txt"
+    }
+  ]
+}
